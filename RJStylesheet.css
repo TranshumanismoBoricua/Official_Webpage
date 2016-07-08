@@ -1,0 +1,48 @@
+#BodyCss{
+	/*background-color:#1ACB11;*/
+	/*font-family: Garamond, Serif;*/
+	/*font-size:20px;*/
+	padding-bottom:15px;
+	/*color: #333333*/
+	background-image:url('http://2.bp.blogspot.com/-PcyHPPF_uMM/UAkzcHcAE5I/AAAAAAAABu8/3U67samOi2k/s1600/matrix-yellow.gif');
+	background-position: center;
+	background-size: cover;
+}
+
+.BoundariesHeaders{
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 40px;
+	Width:100%;
+	margin:auto;
+}
+strong {
+	color:white; 
+	font-size:25px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+}
+
+h1{
+	color:white; 
+	font-size:30px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+}
+
+h2{
+	color:white; 
+	font-size:30px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+
+}
+ul{
+	color:white;
+}
+
+p{
+	color:white; 
+	font-size:20px; 
+	font-family: Garamond, Serif;
+
+}
