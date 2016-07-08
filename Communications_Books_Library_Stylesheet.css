@@ -1,0 +1,178 @@
+* {padding:0px;margin:0px;}
+
+strong {
+	color:white; 
+	font-size:25px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+}
+
+body {font-family: Garamond, Serif;
+font-size:20px;
+padding-bottom:15px;
+/*color: #333333*/
+background-image:url('http://2.bp.blogspot.com/-PcyHPPF_uMM/UAkzcHcAE5I/AAAAAAAABu8/3U67samOi2k/s1600/matrix-yellow.gif');
+background-position: center;
+background-size: cover;
+}
+
+
+#background{
+    /* position: absolute; */
+	margin-left:auto;
+	margin-right:auto;
+    background-repeat: no-repeat;
+	padding-top:20px;
+	 
+}
+.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+	}
+
+#container{
+	width:770px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right:solid 1px #333333;
+	border-left:solid 1px #333333;
+	/* background: url(); */
+	background-color: yellow;
+}
+
+.header{
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 90px;
+	Width:100%;
+	margin:auto;
+	
+}
+
+#pParagraph {
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	width:100%;
+	margin: auto;}
+
+#header h1{
+	text-indent:-99999px;
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 72px;
+	width: 514px;
+	margin-left: 55px;
+	align:center;
+}
+
+#header h2{
+	text-indent:-99999px;
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 72px;
+	width: 514px;
+	margin-left: 55px;
+}
+
+#headerCurriculum {
+	z-index: 1;
+	position: fixed;
+	width: 97.5%;
+	margin-top: -20px;
+	height: 60px;
+	background-color: blue;
+	margin-bottom: 10px;}
+	
+	#name {
+	float:left;
+	margin-left: 5px;
+	padding-top: 15px;
+	font-size: 25px;
+	font-family: Garamond, serif;
+	color: white;
+	}
+	
+	.left {
+	position: relative;
+	float: left;
+	margin-top: 50px;
+	width: 600px;
+	height: 600px;
+	background-color: blue;
+	margin-bottom: 10px;
+}
+
+.right {
+	/*position: relative;*/
+	float: left;
+	margin-top: 50px;
+	width: 88%;
+	height: 1100px;
+	background-color: blue;
+	margin-bottom: 10px;
+	width:770px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.curriculumInfo {list-style: none;
+margin-bottom: 20px;
+}
+
+#menu{
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 200x;
+}
+/*#menu ul{
+	list-style: none;
+	margin-left:20px;
+}
+
+#menu ol {list-style: none;
+          margin-left:20px;}*/
+#menu2{
+	background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+	height: 200px;
+}
+
+/*#menu2 ul {list-style: none;
+	margin-left:20px;}*/
+	
+/*#menu2 ol {list-style: none;
+	margin-left:20px;}
+
+	#menu3{
+	background: url(data:image/jpeg;base64,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) repeat-x;
+	height: 150x;*/
+}
+
+/*#menu3 ul {list-style: none;
+	margin-left:20px;}*/
+	
+#bottom{ 
+		background: url(http://cdn.pcwallart.com/images/plain-yellow-background-wallpaper-2.jpg) repeat-x;
+		height:200px;
+        margin:auto;
+        width:100%;		
+		}
+#bottom ul {list-style:none;
+           margin-left:20px;}
+p {
+	color:white;
+	text-align:center;
+}
+
+h2 {
+	color:white;
+	text-align:center;
+}
+
+h3 {
+	color:white;
+}
+li {
+	color:white;
+}
+a {
+    color:white;
+}
+img{
+	align:middle;
+}
