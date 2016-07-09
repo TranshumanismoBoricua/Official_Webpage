@@ -53,12 +53,12 @@ p{
 
 }
 
-.BackButton {
+#BackButton{
 	border-radius: 5px;
-	border: 2px solid white;
-	background-color: black;
+	border: 2px solid #6495ED;
+	background-color: #3352FF;
 	height: 50px;
 	width: 120px;
 	margin: auto;
 	text-align: center;
-}           
+}       
