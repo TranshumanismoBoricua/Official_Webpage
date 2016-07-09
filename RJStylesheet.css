@@ -46,3 +46,13 @@ p{
 	font-family: Garamond, Serif;
 
 }
+
+.BackButton {
+	border-radius: 5px;
+	border: 2px solid white;
+	background-color: black;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}           
