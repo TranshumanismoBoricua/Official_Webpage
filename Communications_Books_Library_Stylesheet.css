@@ -154,6 +154,16 @@ margin-bottom: 20px;
 		}
 #bottom ul {list-style:none;
            margin-left:20px;}
+           
+#BackButton{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #3352FF;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
 p {
 	color:white;
 	text-align:center;
