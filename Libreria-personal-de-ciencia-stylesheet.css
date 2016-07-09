@@ -155,8 +155,8 @@ margin-bottom: 20px;
            
 #BackButton{
 	border-radius: 5px;
-	border: 2px solid #6495ED;
-	background-color: #BCD2EE;
+	border: 2px solid #1ECF16;
+	background-color: #30FF26;
 	height: 50px;
 	width: 120px;
 	margin: auto;
@@ -165,7 +165,7 @@ margin-bottom: 20px;
 
 a{
 	text-decoration: none;
-	color: #3D59AB;
+	color: #000000;
 	font-family: Verdana, sans-serif;
 }
 
