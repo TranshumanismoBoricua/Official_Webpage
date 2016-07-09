@@ -164,6 +164,16 @@ margin-bottom: 20px;
 		}
 #bottom ul {list-style:none;
            margin-left:20px;}
+           
+.BackButton {
+	border-radius: 5px;
+	border: 2px solid white;
+	background-color: black;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}           
 p {
 	color:white;
 	text-align:center;
