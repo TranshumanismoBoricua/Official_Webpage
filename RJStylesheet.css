@@ -57,5 +57,5 @@ p{
 	text-align: center;
 }
 
-a {color:white;}
+a {color:white; text-decoration:none;}
 a hover {color:red;}
