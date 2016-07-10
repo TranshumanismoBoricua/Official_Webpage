@@ -1,0 +1,53 @@
+#BodyCss{
+	/*background-color:#1ACB11;*/
+	/*font-family: Garamond, Serif;*/
+	/*font-size:20px;*/
+	padding-bottom:15px;
+	/*color: #333333*/
+	background-image:url('http://media3.giphy.com/media/fJ1eCBjmMoEvu/giphy.gif');
+	background-position: center;
+	background-size: cover;
+}
+
+.BoundariesHeaders{
+	background: url(http://cdn.pcwallart.com/images/plain-green-background-wallpaper-3.jpg) repeat-x;
+	height: 40px;
+	Width:100%;
+	margin:auto;
+}
+
+
+
+
+
+strong {
+	color:white; 
+	font-size:25px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+}
+
+h1{
+	color:white; 
+	font-size:30px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+}
+
+h2{
+	color:white; 
+	font-size:30px; 
+	font-family: Garamond, Serif;
+	text-align: center;
+
+}
+ul{
+	color:white;
+}
+
+p{
+	color:white; 
+	font-size:20px; 
+	font-family: Garamond, Serif;
+
+}
