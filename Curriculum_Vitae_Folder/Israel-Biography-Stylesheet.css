@@ -16,9 +16,15 @@
 	margin:auto;
 }
 
-
-
-
+#BackButton{
+	border-radius: 5px;
+	border: 2px solid white;
+	background-color: green;
+	height: 50px;
+	width: 120px;
+	margin: auto;
+	text-align: center;
+}
 
 strong {
 	color:white; 
