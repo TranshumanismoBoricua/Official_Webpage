@@ -64,6 +64,5 @@ p{
 	font:white;
 }       
 
-a {color:white;}
-a hover {color:red;
-         text-decoration:none;}
+a {color:white; text-decoration:none;}
+a hover {color:red;}
