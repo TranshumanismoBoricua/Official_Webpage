@@ -63,3 +63,6 @@ p{
 	text-align: center;
 	font:white;
 }       
+
+a {color:white;}
+a hover {color:red;}
