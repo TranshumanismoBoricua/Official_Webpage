@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<link type="text/css" rel="stylesheet" href="Other_Books_Library_Stylesheet.css" />
+	<title>Philosophy books</title>
+</head>	
+	
+	
+<body>
+
+<div id="container">
+
+<div class="header"><h2>Library for Other books</h2>
+</div>
+
+<div id="background"><img src="http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg" height="300" width="765" /> </div>
+
+<p id="pParagraph">These books are for your benefit! Feel free to download them</p>
+
+	<div id="menu">	<h3>Other:</h3>
+		<ol>
+			<li>Soon to be updated</li>
+			<li><a href="https://drive.google.com/open?id=0B8qYAyEwRzTBa0xzUWZlZW9UR0k">The Singularity is Near</a></li>
+			<li><a href="https://drive.google.com/open?id=0B8qYAyEwRzTBUGVQd3g3ZkVwQ0E">Chaos: Classical and Quantum</a></li>
+			<li><a href="https://drive.google.com/open?id=0B8qYAyEwRzTBN05ZbjJEdFk4X0E">Engineering Thermodynamics</a></li>
+			<li><a href="https://drive.google.com/open?id=0B8qYAyEwRzTBbllpeFpCN0RpcWM">Basics of Meechanical Engineering</a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+		</ol>
+		</div>
+		
+		
+		<div id="menu2"><h3>Articles:</h3>
+		<ol>
+			<li>Soon to be updated</li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+		</ol>
+		
+		<div id="BackButton"><a href="index.html">Back to the main page</a></div>
+        </div>
+       
+</div>
+</body>
+
+</html>
