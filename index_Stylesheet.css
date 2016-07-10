@@ -151,3 +151,6 @@ th {
 	font-variant: small-caps;
 	color: #ffffff;
 }
+
+a {color:white;}
+a hover{color:red;}
