@@ -56,3 +56,6 @@ p{
 	margin: auto;
 	text-align: center;
 }
+
+a {color:white;}
+a hover {color:red;}
