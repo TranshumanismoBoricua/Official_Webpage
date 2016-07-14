@@ -37,7 +37,7 @@ img {
 	border-top-right-radius: 15px;
 }
 
-ul{
+/*ul{
 	list-style-type: none;
 	position: fixed;
 	margin: -10px;
@@ -51,7 +51,7 @@ li {
 	padding: 5px;
 	border-radius: 5px 5px;
 	background-color:green;
-}
+}*/
 
 #left{
 	width: 45%;
