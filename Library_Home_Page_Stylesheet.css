@@ -27,6 +27,13 @@ p {
 	font-size: 1em;
 	color:white;
 }
+ul{
+	color:white;
+}
+
+li{
+	font-size: 20px;
+}
 
 a {color:white; text-decoration:none;}
 a hover{color:red;}
