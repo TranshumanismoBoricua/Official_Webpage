@@ -22,14 +22,21 @@ img {
 
 }
 
+ul{
+	color:white;
+}
 
-ol{
+li{
+	font-size: 20px;
+}
+
+#Menu ul{
 	list-style-type: none;
 	position: fixed;
 	margin: -10px;
 }
 
-li {
+#Menu li {
 	display: inline;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
