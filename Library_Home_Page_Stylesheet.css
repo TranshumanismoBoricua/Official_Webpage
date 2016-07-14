@@ -22,6 +22,22 @@ img {
 
 }
 
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+	color:white;
+}
+
+a {color:white; text-decoration:none;}
+a hover{color:red;}
+
+#SubMenu{
+	color:white;
+}
+#SubMenu li{
+	color:white;
+}
+
 #navbar {
 	position: fixed;
 	top:10px;
@@ -56,12 +72,6 @@ li {
 #left{
 	width: 45%;
 	float: left;
-}
-
-p {
-	font-family: Tahoma;
-	font-size: 1em;
-	color:white;
 }
 
 #right{
@@ -148,6 +158,3 @@ th {
 	font-variant: small-caps;
 	color: #ffffff;
 }
-
-a {color:white; text-decoration:none;}
-a hover{color:red;}
