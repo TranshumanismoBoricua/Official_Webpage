@@ -22,6 +22,11 @@ img {
 
 }
 
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+	color:white;
+}
 ul{
 	color:white;
 }
@@ -30,13 +35,15 @@ li{
 	font-size: 20px;
 }
 
-#Menu ul{
+a {color:white; text-decoration:none;}
+a hover{color:red;}
+
+#Menu{
 	list-style-type: none;
 	position: fixed;
 	margin: -10px;
 }
-
-#Menu li {
+#Menu li{
 	display: inline;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
@@ -64,12 +71,6 @@ li{
 #left{
 	width: 45%;
 	float: left;
-}
-
-p {
-	font-family: Tahoma;
-	font-size: 1em;
-	color:white;
 }
 
 #right{
