@@ -16,8 +16,11 @@ h2 {
 }
 
 img {
-	height: 500px;
-	width: 770px;
+	height: 400px;
+	width: 700px;
+	display: block;
+    	margin: auto;
+    	width: 45%;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 
 }
@@ -85,7 +88,8 @@ a hover{color:red;}
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
-	float:right;
+	margin: auto;
+	/*float:right;*/
 }
 
 /*table {
