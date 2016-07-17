@@ -85,19 +85,9 @@ a hover{color:red;}
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
-	margin-left:100px;
-	float:left;
+	margin: auto;
 }
 
-#Information2 {
-	height: 700px;
-	width: 600px;
-	border: 2px solid black;
-	border-radius: 5px;
-	background-color: green;
-	margin-right:100px;
-	float:right;
-}
 
 /*table {
 	border: #000000 1px solid;
