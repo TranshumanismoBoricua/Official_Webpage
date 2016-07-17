@@ -20,7 +20,7 @@ img {
 	width: 700px;
 	display: block;
     	margin: auto;
-    	width: 45%;
+    	width: 55%;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 
 }
@@ -60,7 +60,7 @@ a hover{color:red;}
 #navbar {
 	position: fixed;
 	top:10px;
-	left:40%;
+	left:30%;
 	margin-left:-254px;
 }
 
