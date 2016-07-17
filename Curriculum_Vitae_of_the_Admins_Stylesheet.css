@@ -23,6 +23,7 @@ img {
 }
 
 p {
+	margin-left:10px;
 	font-family: Tahoma;
 	font-size: 1em;
 	color:white;
