@@ -85,8 +85,9 @@ a hover{color:red;}
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
-	margin-left:500px;
-	float:left;
+	margin: auto;
+	/*margin-left:500px;
+	float:left;*/
 }
 
 /*table {
