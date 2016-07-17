@@ -22,6 +22,38 @@ img {
 
 }
 
+p {
+	margin-left:10px;
+	font-family: Tahoma;
+	font-size: 1em;
+	color:white;
+}
+ul{
+	color:white;
+}
+
+li{
+	font-size: 20px;
+}
+
+a {color:white; text-decoration:none;}
+a hover{color:red;}
+
+#Menu{
+	list-style-type: none;
+	position: fixed;
+	margin: -10px;
+}
+#Menu li{
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color:green;
+}
+
 #navbar {
 	position: fixed;
 	top:10px;
@@ -37,32 +69,9 @@ img {
 	border-top-right-radius: 15px;
 }
 
-/*ul{
-	list-style-type: none;
-	position: fixed;
-	margin: -10px;
-}
-
-li {
-	display: inline;
-	border: 2px solid #000000;
-	font-family: Futura, Tahoma, sans-serif;
-	color: #ffffff;
-	padding: 5px;
-	border-radius: 5px 5px;
-	background-color:green;
-}*/
-
 #left{
 	width: 45%;
 	float: left;
-}
-
-p {
-	margin-left:10px;
-	font-family: Tahoma;
-	font-size: 1em;
-	color:white;
 }
 
 #right{
