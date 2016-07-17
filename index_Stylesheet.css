@@ -18,7 +18,9 @@ h2 {
 img {
 	height: 400px;
 	width: 700px;
-	margin: auto;
+	display: block;
+    	margin: auto;
+    	width: 50%;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 }
 
