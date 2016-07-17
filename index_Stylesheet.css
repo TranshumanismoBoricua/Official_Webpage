@@ -18,7 +18,7 @@ h2 {
 img {
 	height: 400px;
 	width: 700px;
-	margin-left:400px;
+	margin: auto;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 }
 
@@ -82,7 +82,7 @@ a hover{color:red;}
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
-	margin-left:400px;
+	margin: auto;
 	/*float:right;*/
 }
 
