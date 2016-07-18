@@ -20,7 +20,7 @@ img {
 	width: 600px;
 	display: block;
     	margin: auto;
-    	width: 50%;
+    	width: 45%;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 
 }
@@ -83,8 +83,8 @@ a hover{color:red;}
 }
 
 #Information {
-	height: 500px;
-	width: 800px;
+	height: 550px;
+	width: 700px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
