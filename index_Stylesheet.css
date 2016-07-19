@@ -138,8 +138,9 @@ th {
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
-	font-size: 1em;
-	color:white;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
 	
 }
 
