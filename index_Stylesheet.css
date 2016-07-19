@@ -16,21 +16,34 @@ h2 {
 }
 
 img {
-	height: 400px;
-	width: 600px;
-	display: block;
-    	margin: auto;
-    	width: 45%;
+	height: 500px;
+	width: 770px;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
+
 }
 
+p {
+	font-size:25px;
+	margin-left:10px;
+	font-family: Tahoma;
+	color:white;
+}
+ul{
+	color:white;
+}
+
+li{
+	font-size: 20px;
+}
+
+a {color:white; text-decoration:none;}
+a hover{color:red;}
 
 #Menu{
 	list-style-type: none;
 	position: fixed;
 	margin: -10px;
 }
-
 #Menu li{
 	display: inline;
 	border: 2px solid #000000;
@@ -40,17 +53,6 @@ img {
 	border-radius: 5px 5px;
 	background-color:green;
 }
-
-p {
-	margin-left:10px;
-	font-family: Tahoma;
-	font-size: 1em;
-	color:white;
-}
-
-
-a {color:white; text-decoration:none;}
-a hover{color:red;}
 
 #navbar {
 	position: fixed;
@@ -72,7 +74,6 @@ a hover{color:red;}
 	float: left;
 }
 
-
 #right{
 	width: 45%;
 	float: right;
@@ -80,13 +81,13 @@ a hover{color:red;}
 
 #Information {
 	height: 550px;
-	width: 700px;
+	width: 600px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
 	margin: auto;
-	/*float:right;*/
 }
+
 
 /*table {
 	border: #000000 1px solid;
@@ -96,18 +97,15 @@ a hover{color:red;}
 	border-bottom-right-radius: 15px;
 	border-bottom-left-radius: 15px;
 }
-
 td {
 	height: 75px;
 	width: 75px;
 }
-
 td img {
 	height: 75px;
 	width: 75px;
 	box-shadow: none;
 }
-
 th {
 	font-family: Verdana;
 	font-size: 1em;
