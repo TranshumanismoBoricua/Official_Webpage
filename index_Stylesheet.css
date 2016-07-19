@@ -16,16 +16,19 @@ h2 {
 }
 
 img {
-	height: 500px;
-	width: 770px;
+	height: 400px;
+	width: 600px;
+	display: block;
+    	margin: auto;
+    	width: 45%;
 	/*box-shadow: rgba(0,0,0,0.2) 10px 10px;*/
 
 }
 
 p {
-	font-size:25px;
 	margin-left:10px;
 	font-family: Tahoma;
+	font-size: 1em;
 	color:white;
 }
 ul{
@@ -57,7 +60,7 @@ a hover{color:red;}
 #navbar {
 	position: fixed;
 	top:10px;
-	left:45%;
+	left:40%;
 	margin-left:-254px;
 }
 
@@ -80,14 +83,14 @@ a hover{color:red;}
 }
 
 #Information {
-	height: 550px;
-	width: 600px;
+	height: 450px;
+	width: 700px;
 	border: 2px solid black;
 	border-radius: 5px;
 	background-color: green;
 	margin: auto;
+	/*float:right;*/
 }
-
 
 /*table {
 	border: #000000 1px solid;
