@@ -42,6 +42,16 @@ li{
 a {color:white; text-decoration:none;}
 a:hover{color:#9DFEED;}
 
+marquee{
+	height:100%;
+	width:100%;
+	color:white;
+	font-size:18px;
+	margin-left:10px;
+	margin-bottom:-10px;
+	font-family: Verdana;
+}
+
 #Menu{
 	list-style-type: none;
 	position: fixed;
@@ -83,7 +93,7 @@ a:hover{color:#9DFEED;}
 }
 
 #Information {
-	height: 450px;
+	height: 500px;
 	width: 700px;
 	border: 2px solid black;
 	border-radius: 5px;
@@ -161,4 +171,16 @@ th {
 	font-size: 1.2em;
 	font-variant: small-caps;
 	color: #ffffff;
+}
+#box{
+	height: 400px;
+	width: 700px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: green;
+	margin:auto;
+}
+.News-Feed-Hyperlink{
+	color:white; 
+	text-decoration:underline;
 }
