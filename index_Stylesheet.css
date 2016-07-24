@@ -7,7 +7,6 @@ body {
 }
 
 h2 {
-	margin-right:20px;
 	font-family: Verdana;
 	font-weight: bold;
 	text-align: center;
@@ -42,6 +41,17 @@ li{
 
 a {color:white; text-decoration:none;}
 a:hover{color:#9DFEED;}
+
+#header_Title{
+	margin-right:30px;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
+	
+}
 
 #Menu{
 	list-style-type: none;
