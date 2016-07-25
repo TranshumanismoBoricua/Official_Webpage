@@ -15,17 +15,6 @@ h2 {
 	color: #acd1b2;
 }
 
-#title{
-	font-family: Verdana;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	margin-right:120px;
-	color: #acd1b2;
-	
-}
-
 img {
 	max-width: 100%;
 	height: 400px;
@@ -96,6 +85,17 @@ marquee h2{
 	border-top-right-radius: 15px;
 }
 
+#title{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-right:120px;
+	color: #acd1b2;
+	
+}
+
 #left{
 	width: 45%;
 	float: left;
@@ -115,6 +115,7 @@ marquee h2{
 	margin: auto;
 	margin-top:20px;
 }
+
 
 #bottom_left{
 	border-bottom-left-radius: 15px;
@@ -157,13 +158,6 @@ marquee h2{
 	text-align: center;
 }
 
-.bold{
-	font-family: tahoma;
-	font-weight: bold;
-	font-size: 1.2em;
-	font-variant: small-caps;
-	color: #ffffff;
-}
 #box{
 	height: 400px;
 	width: 700px;
@@ -183,6 +177,23 @@ marquee h2{
 	color: #acd1b2;
 	
 }
+
+#Highlights{
+	height: 80px;
+	width: 700px;
+	background-color: #3c4543;	
+	margin:auto;
+}
+
+
+.bold{
+	font-family: tahoma;
+	font-weight: bold;
+	font-size: 1.2em;
+	font-variant: small-caps;
+	color: #ffffff;
+}
+
 .News-Feed-Hyperlink{
 	color:white; 
 	text-decoration:underline;
