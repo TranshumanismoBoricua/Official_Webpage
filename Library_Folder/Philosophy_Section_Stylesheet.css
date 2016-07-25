@@ -153,6 +153,16 @@ th {
 	text-align: center;
 }
 
+#Copyright{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
+	
+}
+
 .bold{
 	font-family: tahoma;
 	font-weight: bold;
