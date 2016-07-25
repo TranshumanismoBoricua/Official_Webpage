@@ -52,6 +52,10 @@ marquee{
 	font-family: Verdana;
 }
 
+marquee h2{
+	margin-right:10px;
+}
+
 #Menu{
 	list-style-type: none;
 	position: fixed;
