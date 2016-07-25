@@ -194,6 +194,16 @@ th {
 	background-color: green;
 	margin:auto;
 }
+
+#Copyright{
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: #acd1b2;
+	
+}
 .News-Feed-Hyperlink{
 	color:white; 
 	text-decoration:underline;
