@@ -1,4 +1,4 @@
-@media screen and (max-width: 481px){
+/*@media screen and (max-width: 481px){*/
 body {
 	background-color: #b7d1c4;
 	padding-bottom:15px;
@@ -231,4 +231,4 @@ marquee{
 	text-decoration:underline;
 }
 
-}
+/*}*/
