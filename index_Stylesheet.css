@@ -1,3 +1,4 @@
+@media screen and (max-width: 481px){
 body {
 	background-color: #b7d1c4;
 	padding-bottom:15px;
@@ -228,4 +229,6 @@ marquee{
 .News-Feed-Hyperlink{
 	color:white; 
 	text-decoration:underline;
+}
+
 }
