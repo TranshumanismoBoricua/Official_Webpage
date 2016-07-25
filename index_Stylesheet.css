@@ -113,6 +113,7 @@ marquee h2{
 	border-radius: 5px;
 	background-color: green;
 	margin: auto;
+	margin-top:20px;
 }
 
 #bottom_left{
