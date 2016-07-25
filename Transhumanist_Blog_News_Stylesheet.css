@@ -13,7 +13,6 @@ h2 {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: #acd1b2;
-	margin:40px;
 }
 
 img {
@@ -168,6 +167,16 @@ th {
 	text-align: center;
 }
 
+#box{
+	height: 490px;
+	width: 700px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: green;
+	margin:auto;
+	margin-top: 15px;
+	margin-right:40px;
+}
 .bold{
 	font-family: tahoma;
 	font-weight: bold;
