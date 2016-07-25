@@ -96,7 +96,7 @@ marquee h2{
 }
 
 #Information {
-	height: 500px;
+	height: 525px;
 	width: 700px;
 	border: 2px solid black;
 	border-radius: 5px;
@@ -121,15 +121,6 @@ marquee h2{
 	border-bottom-right-radius: 15px;
 	height: 75px;
 	background-color: #3c4543;
-}
-#Copyright{
-	font-family: Verdana;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	color: #acd1b2;
-	
 }
 
 #button{
