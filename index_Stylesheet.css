@@ -12,6 +12,7 @@ h2 {
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
+	margin-right:40px;
 	color: #acd1b2;
 }
 
@@ -96,7 +97,7 @@ marquee h2{
 }
 
 #Information {
-	height: 525px;
+	height: 540px;
 	width: 700px;
 	border: 2px solid black;
 	border-radius: 5px;
